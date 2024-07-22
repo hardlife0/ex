@@ -1,10 +1,1 @@
-import React from "react";
-import Calendar from "../components/Calendar";
-
-const MainForm =()=>{
-    return(
-        <>
-            <Calendar/>
-        </>
-    )
-}
+//식사, 운동, 체중, 그래프 한눈 확인 폼
